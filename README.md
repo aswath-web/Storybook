@@ -42,3 +42,39 @@ Welcome to Decentralized Storybook! This is a decentralized application (dApp) b
   ```
 ## Screenshots 
 
+### Front Page:
+<img width="959" alt="login" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/1d96020a-986e-41f4-bf52-73bd7f6a9eb3">
+
+### Login Page:
+<img width="959" alt="loginkk" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/53b1b95a-362c-4454-82d8-d37d3fdebe1c">
+
+### Signup Page:
+<img width="959" alt="signup" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/8a72ff39-20af-41f6-8c88-ef7f23349db8">
+
+### Home Page:
+<img width="959" alt="Home" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/1d5062d9-640f-4a1a-84a5-356ca067fea7">
+
+### Create Short stories:
+<img width="956" alt="create" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/233c28f4-2724-4d01-9cbb-5f454191c58e">
+
+### Create Quotes
+<img width="958" alt="createQuotes" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/ad2282f0-6a69-4785-9ec1-90c2fe85864e">
+
+### Contribution Page:
+<img width="959" alt="Contribution" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/11efe5a5-d82e-4c95-8294-3e175d444d1a">
+
+### Create Big Story:
+<img width="959" alt="contribution Create" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/b6d2cfe7-80d4-47f3-a608-3c292c2ef5ad">
+
+### Read Chapters of story:
+<img width="959" alt="chapterReader" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/e73c583d-c84f-4d0a-9db8-ba93416fe969">
+
+### Create option for campaign:
+<img width="959" alt="option creator" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/05d368bb-9551-4107-9b82-0322cdd16b6b">
+
+### CrowdFunding Page:
+<img width="959" alt="Crowdfunding" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/c31e32c9-dfe4-45fa-8050-9c391e84272a">
+
+### Donation of ethers:
+<img width="947" alt="Donation" src="https://github.com/lakshman-karthick/Decentralized-Storybook/assets/81451604/30893c09-2105-4d8d-a134-34b690907e36">
+
